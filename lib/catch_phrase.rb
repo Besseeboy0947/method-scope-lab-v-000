@@ -8,6 +8,6 @@ describe "#rescue_princess_peach" do
 end
 
 
-def catch_phrase
-  puts phrase
+def catch_phrase(rich)
+  puts arichkid
 end
