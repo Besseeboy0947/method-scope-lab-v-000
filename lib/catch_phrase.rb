@@ -6,3 +6,8 @@ describe "#rescue_princess_peach" do
     expect{puts status}.to raise_error(NameError)
   end 
 end
+
+
+def catch_phrase
+  puts phrase
+end
